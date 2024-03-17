@@ -124,6 +124,7 @@ async function obtenerDatos() {
 }
 
 //Aquí comienzan los comentarios
+//No funciona el localstorage
 arreglo=[];
 
 function comentario(event,contenedor){
